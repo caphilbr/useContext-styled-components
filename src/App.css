@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.bordered-component {
+  margin-top: 10px;
+  border-top: 5px white solid;
+}
+
+.bordered-component-level2 {
+  margin-top: 10px;
+  border-top: 2px white solid;
+}
+
